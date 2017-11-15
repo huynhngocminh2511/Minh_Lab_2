@@ -1,0 +1,5 @@
+C:\Users\huynh\Desktop\Basic program\Exercise10\bin\Debug\Exercise10.exe.config
+C:\Users\huynh\Desktop\Basic program\Exercise10\bin\Debug\Exercise10.exe
+C:\Users\huynh\Desktop\Basic program\Exercise10\bin\Debug\Exercise10.pdb
+C:\Users\huynh\Desktop\Basic program\Exercise10\obj\Debug\Exercise10.exe
+C:\Users\huynh\Desktop\Basic program\Exercise10\obj\Debug\Exercise10.pdb
