@@ -1,5 +1,0 @@
-C:\Users\huynh\Desktop\Basic program\Exercise12\bin\Debug\Exercise12.exe.config
-C:\Users\huynh\Desktop\Basic program\Exercise12\bin\Debug\Exercise12.exe
-C:\Users\huynh\Desktop\Basic program\Exercise12\bin\Debug\Exercise12.pdb
-C:\Users\huynh\Desktop\Basic program\Exercise12\obj\Debug\Exercise12.exe
-C:\Users\huynh\Desktop\Basic program\Exercise12\obj\Debug\Exercise12.pdb

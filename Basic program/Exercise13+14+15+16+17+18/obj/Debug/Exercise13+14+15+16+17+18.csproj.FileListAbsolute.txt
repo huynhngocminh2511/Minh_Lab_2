@@ -1,5 +1,0 @@
-C:\Users\huynh\Desktop\Basic program\Exercise13+14+15+16+17+18\bin\Debug\Exercise13+14+15+16+17+18.exe.config
-C:\Users\huynh\Desktop\Basic program\Exercise13+14+15+16+17+18\bin\Debug\Exercise13+14+15+16+17+18.exe
-C:\Users\huynh\Desktop\Basic program\Exercise13+14+15+16+17+18\bin\Debug\Exercise13+14+15+16+17+18.pdb
-C:\Users\huynh\Desktop\Basic program\Exercise13+14+15+16+17+18\obj\Debug\Exercise13+14+15+16+17+18.exe
-C:\Users\huynh\Desktop\Basic program\Exercise13+14+15+16+17+18\obj\Debug\Exercise13+14+15+16+17+18.pdb

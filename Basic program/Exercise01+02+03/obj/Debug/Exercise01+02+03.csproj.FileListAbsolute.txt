@@ -1,6 +1,1 @@
-C:\Users\huynh\Desktop\Basic program\Exercise01+02+03\bin\Debug\Exercise01+02+03.exe.config
-C:\Users\huynh\Desktop\Basic program\Exercise01+02+03\bin\Debug\Exercise01+02+03.exe
-C:\Users\huynh\Desktop\Basic program\Exercise01+02+03\bin\Debug\Exercise01+02+03.pdb
-C:\Users\huynh\Desktop\Basic program\Exercise01+02+03\obj\Debug\Exercise01+02+03.csprojResolveAssemblyReference.cache
-C:\Users\huynh\Desktop\Basic program\Exercise01+02+03\obj\Debug\Exercise01+02+03.exe
-C:\Users\huynh\Desktop\Basic program\Exercise01+02+03\obj\Debug\Exercise01+02+03.pdb
+D:\learn\Xamarin2\Lab2\Basic program\Exercise01+02+03\bin\Debug\Exercise01+02+03.exe.config
